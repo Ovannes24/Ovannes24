@@ -1,12 +1,12 @@
-# Hi, I'm Ovannes 🍌
+# Hi, I'm Ovannes 
 ### __ML/DL Engineer__
 
 ![](https://komarev.com/ghpvc/?username=Ovannes24)
 
-+ 🍕 I’m interested in Computer Vision, Statistics, NLP;
-+ 🍍 I’m currently learning deep learning;
-+ 🍩 I was born and live in Russia;
-+ 🍫 Now I’m studying at BMSTU
++ I’m interested in Computer Vision, Statistics, NLP;
++ I’m currently learning deep learning;
++ I was born and live in Russia;
++ Now I’m studying at BMSTU
 
 
 ### __My contacts:__
