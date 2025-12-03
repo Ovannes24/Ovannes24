@@ -1,5 +1,5 @@
 # Hi, I'm Ovannes 
-### __ML/DL Engineer__
+### __Engineer__
 
 ![](https://komarev.com/ghpvc/?username=Ovannes24)
 
